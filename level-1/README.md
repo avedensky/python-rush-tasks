@@ -3,12 +3,12 @@
 
 1. Напишите скрипт, выводящий фразу в консоль: 'Hello World'
 <br><a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-1.py">решение</a><br>
-2. Посчитаем. Напишите скрипт, который запрашивает ввод двух целых чисел с клавиатуры, перемножает их и выдает результат на экран. 
+2.Напишите скрипт, который запрашивает ввод двух целых чисел с клавиатуры, перемножает их и выдает результат на экран. 
 <br><a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-2-1.py">решение</a><br>
-<br><a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-2-2.py">решение с проверкой ввода</a><br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-2-2.py">решение с проверкой ввода</a><br>
 3. Перевернуть все буквы в строке, введенной с клавиатуры, и вывести результат на экран. (Например: hello world  в  dlrow olleh)
 <br><a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-3-1.py">решение - в лоб (ужасное решение)</a><br>
-<br><a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-3-2.py">решение - используя pythonic way</a><br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-3-2.py">решение - используя pythonic way</a><br>
 4. Перевернуть все слова в строке, введенной с клавиатуры, и вывести результат на экран. (Например: hello world  в  world hello)
 <br><a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-4-1.py">решение - используя pythonic way</a><br>
 5. Подсчитать количество букв 'а' в словах из списка ['aaabb', 'caca', 'dabc', 'acc', 'abbba'] и вывести результат в виде списка т.е. вывод - [3, 2, 1, 1, 2]

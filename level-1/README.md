@@ -33,3 +33,20 @@
 10. Показать только уникальные значения из списка [1,1,5,4,9,7,4,5,8,3,9] в отсортированном порядке <br>
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-10-1.py">решение</a><br>
 
+11. Найти максимальное значение из списка [1,1,5,4,9,7,4,5,8,3,9]<br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-11-1.py">решение</a><br>
+
+12. Вывести таблицу умножения 20x20<br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-12-1.py">решение</a><br>
+
+13. Вывести список из всех четных чисел от 1-20<br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-13-1.py">решение</a><br>
+
+14. Сложить поэлементно списки [1,2,3] и [6,4,0] каждую сумму записать в третий список, третий список вывести на экран<br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-14-1.py">решение</a><br>
+
+15. Поменять значения переменных между собой a=1, b=2; результат a=2, b=1. Вывести значения до и после изменения<br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-15-1.py">решение через временную переменную</a><br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-15-2.py">решение математикой</a><br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-15-3.py">решение через кортеж</a><br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-15-4.py">решение через xor</a><br>

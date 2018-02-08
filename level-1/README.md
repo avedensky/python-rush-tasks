@@ -4,7 +4,7 @@
 1. Напишите скрипт, выводящий фразу в консоль: 'Hello World'<br>
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-1.py">решение</a><br>
 
-2.Напишите скрипт, который запрашивает ввод двух целых чисел с клавиатуры, перемножает их и выдает результат на экран.<br>
+2. Напишите скрипт, который запрашивает ввод двух целых чисел с клавиатуры, перемножает их и выдает результат на экран.<br>
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-2-1.py">решение</a><br>
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/task-1/task-1-2-2.py">решение с проверкой ввода</a><br>
 

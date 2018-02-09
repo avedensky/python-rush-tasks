@@ -20,7 +20,7 @@ Level-5 Функции и модули
 <br>
 Level-5 Кортежи
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-7 Множества
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-7/">Level-7 Множества
 </a>
 <br>
 Level-8 Словари

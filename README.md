@@ -2,22 +2,26 @@
 Сборник задач и решений на python
 
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-1 Простая программа</a>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-1 Простая программа
+</a>
 <br>
 Level-2 Управляющие инструкции
 <br>
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-3/">
-Level-3 Строки</a>
+Level-3 Строки
+</a>
 <br>
 Level-4 Форматирование и вывод строк
 <br>
 Level-5 Функции и модули
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-6/">Level-6 Списки</a>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-6/">Level-6 Списки
+</a>
 <br>
 Level-5 Кортежи
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-7 Множества</a>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-7 Множества
+</a>
 <br>
 Level-8 Словари
 <br>
@@ -71,7 +75,9 @@ Level-31 Тестирование
 <br>
 <h4>Патерны проектирования</h4>
 <br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-31/">
 Level-31 Синглтон
+</a>
 <br>
 Level-32 Адаптер
 <br>

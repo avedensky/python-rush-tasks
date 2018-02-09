@@ -4,82 +4,83 @@
 <br>
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-1 Простая программа</a>
 <br>
-<a href="#">Level-2 Управляющие инструкции</a>
+Level-2 Управляющие инструкции
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-3/">Level-3 Строки</a>
+Level-3 Строки
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-4/">Level-4 Форматирование и вывод строк</a>
+Level-4 Форматирование и вывод строк
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-5/">Level-5 Функции и модули</a>
+Level-5 Функции и модули
 <br>
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-6/">Level-6 Списки</a>
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-5 Кортежи</a>
+Level-5 Кортежи
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-6 Множества</a>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-7 Множества</a>
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-7 Словари</a>
+Level-8 Словари
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-8 Объединения</a>
+Level-9 Объединения
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-9 Файловый ввод/вывод</a>
+Level-10 Файловый ввод/вывод
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-10 ООП Классы</a>
+<h4>Объектно ориетированное программирование</h4>
+Level-11 ООП Классы
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-11 Простое наследование</a>
+Level-12 Простое наследование
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-12 Множественное наследование (MRO)</a>
+Level-13 Множественное наследование (MRO)
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-13 Миксины</a>
+Level-14 Миксины
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-14 Абстактные классы</a>
+Level-15 Абстактные классы
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-15 Дескрипторы данных</a>
+Level-16 Дескрипторы данных
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-16 Ввод и вывод классов, сериализация, packing</a>
+Level-17 Ввод и вывод классов, сериализация, packing
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-17 Метаклассы</a>
+Level-18 Метаклассы
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-18 Магические методы</a>
+Level-19 Магические методы
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-19 Все есть объекты</a>
+Level-20 Все есть объекты
 <br>
 <h4>Стандартная библиотека</h4>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-20 datetime</a>
+Level-21 datetime
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-21 os.path</a>
+Level-22 os.path
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-22 Аргументы командной строки</a>
+Level-23 Аргументы командной строки
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-23 Регулярные выражения </a>
+Level-24 Регулярные выражения 
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-23 Логирование</a>
+Level-25 Логирование
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-24 Мультизадачность</a>
+Level-26 Мультизадачность
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-25 Аргументы командной строки</a>
+Level-27 Аргументы командной строки
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-26 Форматы данных CSV, JSON, XML</a>
+Level-28 Форматы данных CSV, JSON, XML
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-27 socket</a>
+Level-29 socket
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-28 request</a>
+Level-30 request
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-29 Тестирование</a>
+Level-31 Тестирование
 <br>
 <h4>Патерны проектирования</h4>
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-30 Синглтон</a>
+Level-31 Синглтон
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-31 Адаптер</a>
+Level-32 Адаптер
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-32 Враппер</a>
+Level-33 Враппер
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-33 Наблюдатель</a>
+Level-34 Наблюдатель
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-34 Стратегия</a>
+Level-35 Стратегия
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-35 Команда</a>
+Level-36 Команда
 <br>
-<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-36 Машина состояний</a>
+Level-37 Машина состояний
 <br>

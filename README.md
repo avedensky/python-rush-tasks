@@ -6,7 +6,8 @@
 <br>
 Level-2 Управляющие инструкции
 <br>
-Level-3 Строки
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-3/">
+Level-3 Строки</a>
 <br>
 Level-4 Форматирование и вывод строк
 <br>

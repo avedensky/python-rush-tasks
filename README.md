@@ -38,6 +38,8 @@ Level-13 Множественное наследование (MRO)
 <br>
 Level-14 Миксины
 <br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-14/">Level-14 Миксины
+</a>
 Level-15 Абстактные классы
 <br>
 Level-16 Дескрипторы данных

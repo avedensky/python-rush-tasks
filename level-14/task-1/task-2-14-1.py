@@ -9,6 +9,9 @@
 """
 import random
 
+class SomeBaseList ():
+    pass
+
 class Helper():
     """ миксин helper """
     def __init__(self):
@@ -24,7 +27,7 @@ class Helper():
         print('Avg: {}'.format(sum(self._lst) / len(self._lst)))    
         
 
-class RandomList(Helper):
+class RandomList(Helper, SomeBaseList):
     """ класс для работы со списком случайных значений """
     def __init__(self):
         super().__init__()

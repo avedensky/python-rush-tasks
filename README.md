@@ -5,7 +5,9 @@
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-1/">Level-1 Простая программа
 </a>
 <br>
+<a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-2/">
 Level-2 Управляющие инструкции
+</a>
 <br>
 <a href="https://github.com/avedensky/python-rush-tasks/blob/master/level-3/">
 Level-3 Строки
